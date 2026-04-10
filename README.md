@@ -1,2 +1,2 @@
 # .github
-Revelica's organization profile on GitHub
+Revelica's GitHub organization profile
